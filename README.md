@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**jasonrn36/jasonrn36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jasonrn36/jasonrn36** Hi welcome to my ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
