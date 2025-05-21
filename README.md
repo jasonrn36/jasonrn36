@@ -21,3 +21,6 @@
          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/ alt="MySqlLite">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/ alt="NodeJs">
 </div>
+## Status to use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrn36&layout=donut-vertical)](https://github.com/jasonrn36/github-readme-stats)
