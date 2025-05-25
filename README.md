@@ -28,3 +28,6 @@
 ## Language Rancking
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrn36&layout=donut-vertical)](https://github.com/jasonrn36/github-readme-stats)
+
+## Others
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
